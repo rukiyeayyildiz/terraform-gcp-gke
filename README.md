@@ -2,8 +2,8 @@
 ### Please copy paste below code
 ```
 module demo
-{
-    source = "../"
+    {
+source = "../"
     gke_config = {
         cluster_name = "project-cluster"
         location = "us-central1"
@@ -14,5 +14,6 @@ module demo
         disk_size_gb = "100"
         disk_type = "pd-balanced"
     }
-  }
+}
+
 ```
