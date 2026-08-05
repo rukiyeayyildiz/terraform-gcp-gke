@@ -2,8 +2,8 @@
 ### Please copy paste below code
 ```
 module demo
-    {
-source = "../"
+{
+    source = "../"
     gke_config = {
         cluster_name = "project-cluster"
         location = "us-central1"
