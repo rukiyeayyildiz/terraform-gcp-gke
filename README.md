@@ -3,7 +3,7 @@
 
 ```
 module demo {
-    source = ".../"
+    source = "rukiyeayyildiz/gke/gcp"
     cluster_name = "project-cluster"
     location = "us-central1"
     node_count = 1
